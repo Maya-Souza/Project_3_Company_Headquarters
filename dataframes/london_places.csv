@@ -1,204 +1,204 @@
 name,lat,lon,city,type,address,type_of_place,distance_from_company
-The Mirror Bar,51.521536,-0.162908,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.521536, -0.162908]}}","222 Marylebone Rd, London, Greater London, NW1 6JQ",Bar,0.2601015509400217
-Sara Cafe,51.520111,-0.158643,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.520111, -0.158643]}}","13A Crawford St, London, Greater London, W1U 6BZ",Bar,0.2924336440577366
-Marriott Marble Arch - Executive Lounge,51.516266,-0.163932,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.516266, -0.163932]}}","134 George St, London, Greater London, W1H 5DN",Bar,0.3392717585936984
-Gino's Coffee Bar,51.522114,-0.162098,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.522114, -0.162098]}}","Great Central St, London, Greater London, NW1 6JH",Bar,0.3254911942064161
-Sports Bar & Grill,51.522365,-0.163686,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.522365, -0.163686]}}","Marylebone Station, Melcombe Pl, Marylebone, Greater London, NW1 6JJ",Bar,0.35925931132828387
-Valentino,51.518273,-0.167912,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.518273, -0.167912]}}","179-181 Edgware Rd, London, Greater London, W2 1ET",Bar,0.3811692701110446
-Al Dar,51.515436,-0.163773,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.515436, -0.163773]}}","61-63 Edgware Rd, London, Greater London, W2 2HZ",Bar,0.42665910601648654
-Palm Palace,51.515509,-0.163362,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.515509, -0.163362]}}","84 Edgware Rd, London, Greater London, W2 2EA",Bar,0.41416709135709157
-Shishawi,51.515175,-0.163565,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.515175, -0.163565]}}","51-53 Edgware Rd, City of Westminster, Greater London, W2 2HZ",Bar,0.4528711778861794
-Sherlock's Bar & Grill,51.521011,-0.156722,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.521011, -0.156722]}}","108 Baker St, London, Greater London, W1U 6LJ",Bar,0.45425537178351655
-EDG Bar & Lounge,51.519469,-0.170117,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.519469, -0.170117]}}","225 Edgware Rd, London, Greater London, W2 1JU",Bar,0.5202314501719721
-Globe,51.52197,-0.157056,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.52197, -0.157056]}}","43 Marylebone Rd, Marylebone, Greater London, NW1 5JY",Bar,0.49220720522817496
-Salt Whisky Bar & Dining Room,51.514209,-0.162228,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.514209, -0.162228]}}","82 Seymour St, Marble Arch, Greater London, W2 2JB",Bar,0.5560712374550706
-The Metropolitan Bar,51.522668,-0.156824,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.522668, -0.156824]}}","7 Station Approach, Baker St (Marylebone Rd), Marylebone, Greater London, NW1 5LD",Bar,0.5555393610851007
-Regency Club Lounge,51.515473,-0.157155,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.515473, -0.157155]}}","30 Portman Sq (Hyatt Regency London - The Churchill), London, Greater London, W1H 7BH",Bar,0.5609119268870348
-BrewDog Paddington,51.519211,-0.171007,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.519211, -0.171007]}}","West End Quay, Paddington, Greater London, W2 1JX",Bar,0.5809798203796387
-The Churchill Bar,51.515161,-0.156887,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.515161, -0.156887]}}","30 Portman Sq, London, Greater London, W1H 7BH",Bar,0.599131124399779
-Fire & Spice Bar & Kitchen,51.514631,-0.15666,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.514631, -0.15666]}}","4 Bryanston St, London, Greater London, W1H 7BY",Bar,0.6543024205902415
-Micky's Fish Bar,51.516902,-0.172958,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.516902, -0.172958]}}","29 Norfolk Pl, Paddington, Greater London, W2 1QH",Bar,0.760377589144292
-Champagne & Oyster Bar by Caviar House & Prunier,51.514488,-0.153907,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.514488, -0.153907]}}","400 Oxford St, London, Greater London, W1A 1AB",Bar,0.7985543148420513
-The Corner Restaurant & Champagne Bar,51.514331,-0.152629,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.514331, -0.152629]}}","Selfridges, 400 Oxford St, London, Greater London, W1A 1AB",Bar,0.8778590686474346
-Harry Gordon's Bar,51.514326,-0.152723,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.514326, -0.152723]}}","400 Oxford St (Lower Ground), London, Greater London, W1A 1AB",Bar,0.8730963384634406
-The Cocktail Bar,51.518018,-0.150114,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.518018, -0.150114]}}","47 Welbeck St, London, Greater London, W1G 8JF",Bar,0.8746502689510439
-Hershesons Blow Dry Bar,51.514703,-0.152769,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.514703, -0.152769]}}","Selfridges & Co, London, Greater London, W1A 1AB",Bar,0.8451198042008647
-Harry's Bar,51.515291,-0.15058,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.515291, -0.15058]}}","30 -34 James St (St Christopher's Pl), Marylebone, Greater London, W1U 1ER",Bar,0.9392948894089623
-The American Bar,51.513065,-0.151932,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.513065, -0.151932]}}","Beaumont Hotel, Mayfair, Greater London, W1K 6TF",Bar,1.005970725387904
-Sandro Sandwich Bar,51.515033,-0.175925,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.515033, -0.175925]}}","22 Spring St, London, W2 1JA",Bar,1.0314692054020098
-Marriott Grosvenor Square Executive Lounge,51.512577,-0.150801,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.512577, -0.150801]}}","Grosvenor Square (Duke St), London, Greater London, W1K 6JP",Bar,1.1003599616922186
-Searcys Champagne Bar,51.516205,-0.176333,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.516205, -0.176333]}}","The Lawn, Paddington Station (The Lawn), London, Greater London, W2 1FT",Bar,1.0063873940149983
-Marriott Grosvenor House Executive Lounge,51.509754,-0.155246,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.509754, -0.155246]}}","86-90 Park Lane, London, Greater London, W1K 7TN",Bar,1.1678633966039107
-Drunch,51.513994,-0.147063,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.513994, -0.147063]}}","6 Blenheim St (Blenheim St), London, Greater London, W1C 2AA",Bar,1.2218806541110427
-Claridges's Bar,51.512602,-0.147909,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.512602, -0.147909]}}","49 Brook St, London, Greater London, W1K 4HR",Bar,1.2545129856756652
-Scott's,51.509869,-0.150851,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.509869, -0.150851]}}","20 Mount St, London, Greater London, W1K 2HE",Bar,1.3189588094948512
-Sheila's Sandwich Bar,51.512423,-0.178517,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.512423, -0.178517]}}","24a Craven Terrace, Paddington, Greater London, W2 3QH",Bar,1.3341986148364875
-Harry's Bar,51.509299,-0.151472,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.509299, -0.151472]}}","26 South Audley St, London, Greater London, W1K 2PD",Bar,1.3443106976345713
-Connaught Bar,51.510135,-0.149774,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.510135, -0.149774]}}","16 Carlos Pl, London, Greater London, W1K 2AL",Bar,1.3438601649453312
-Kibele Restaurant & Bar,51.521726,-0.143647,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.521726, -0.143647]}}","175-177 Great Portland St (175-177 Great Portland), London, Greater London, W1W 5PJ",Bar,1.3416908514709545
-The Nest,51.51794,-0.142467,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.51794, -0.142467]}}","14-15 Langham Pl (Treehouse Hotel), London, Greater London, W1B 2QS",Bar,1.4008333785796525
-The Espresso Bar,51.528615,-0.149079,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.528615, -0.149079]}}","Regents Park (Inner Circle), London, Greater London, NW1 4NR",Bar,1.4040681927188057
-The Aviary Bar,51.516943,-0.141791,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.516943, -0.141791]}}","16 Little Portland St, London, Greater London, W1W 8BW",Bar,1.4623302125182855
-Bar Remo,51.514691,-0.142518,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.514691, -0.142518]}}","2 Princes St, London, Greater London, W1B 2LB",Bar,1.4780853012116064
-Bellaria Restaurant & Wine Bar,51.519242,-0.141218,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.519242, -0.141218]}}","71 Great Titchfield St, London, Greater London, W1W 6RB",Bar,1.4801683909529917
-The Dorchester Rooftop,51.507155,-0.152363,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.507155, -0.152363]}}","53 Park Lane, London, Greater London, W1K 1QA",Bar,1.5158974062966377
-Annabel's,51.509188,-0.146869,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.509188, -0.146869]}}","44 Hays Mews, London, Greater London, W1J 5QB",Bar,1.557876651186686
-Aqua Nueva Rooftop Bar,51.514229,-0.141183,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.514229, -0.141183]}}","240 Regent St, Soho, Greater London, W1B 3BR",Bar,1.5825130342284
-The Polo Bar,51.511439,-0.142663,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.511439, -0.142663]}}","37 Conduit St, London, Greater London, W1S 2YF",Bar,1.6281201116035948
-sketch - Gallery - Afternoon Tea,51.512779,-0.141757,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.512779, -0.141757]}}","9 Conduit St, London, Greater London, W1S 2XG",Bar,1.6101565122521642
-Mr Fogg's Residence,51.509849,-0.144269,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.509849, -0.144269]}}","15 Bruton Lane, Mayfair, Greater London, W1J 6JD",Bar,1.641026814691832
-Shakespeares Head,51.513697,-0.139459,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.513697, -0.139459]}}","29 Great Marlborough St (Fouberts Way), Soho, Greater London, W1F 7HZ",Bar,1.7150222631491998
-Baku Bistro,51.508707,-0.144414,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.508707, -0.144414]}}","22-24 Lansdowne Row, London, Greater London, W1J 8QJ",Bar,1.716961677368573
-London Lux Guestlist,51.519402,-0.158568,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.519402, -0.158568]}}","83-87 Crawford St, London, W1H 2HB",Night Club,0.28055522560381563
-Abacus Bar,51.513201,-0.087121,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.513201, -0.087121]}}","24 Cornhill, London, Greater London, EC3V 3ND",Night Club,5.2660332333601945
-The Loop Bar,51.514226,-0.145548,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.514226, -0.145548]}}","19 Dering St, London, Greater London, W1S 1AH",Night Club,1.3039568696648622
-Tape London,51.514326,-0.144572,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.514326, -0.144572]}}","17 Hanover Square, London, Greater London, W1S 1HU",Night Club,1.3609337023756336
-The Social,51.517359,-0.140988,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.517359, -0.140988]}}","5 Little Portland St, London, Greater London, W1W 7JD",Night Club,1.5101108938865988
-Maddox Club,51.512702,-0.142262,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.512702, -0.142262]}}","3-5 Mill St, London, Greater London, W1S 2AU",Night Club,1.58281058714325
-Drama,51.505525,-0.15001,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.505525, -0.15001]}}","35 Hertford St, London, Greater London, W1J 7SD",Night Club,1.7532662656804554
-Cirque le Soir,51.51291,-0.13893,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.51291, -0.13893]}}","15-21 Ganton St, London, Greater London, W1F 9BN",Night Club,1.781797493036529
-Maya London,51.515953,-0.133966,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.515953, -0.133966]}}","1a Dean St, London, Greater London, W1D 3RB",Night Club,2.014710283306289
-The Cuckoo Club,51.509962,-0.137771,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.509962, -0.137771]}}","99-101 Regent St (Swallow St), London, Greater London, W1B 4EZ",Night Club,2.0026363451737548
-The Roxy,51.516596,-0.132935,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.516596, -0.132935]}}","3-5 Rathbone Pl, London, Greater London, W1T 1HJ",Night Club,2.073714560693088
-The Office,51.516749,-0.133116,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.516749, -0.133116]}}","3-5 Rathbone Pl, London, W1T 1HJ",Night Club,2.0589862463513087
-Tramp,51.508255,-0.13782,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.508255, -0.13782]}}","40 Jermyn St, London, Greater London, SW1Y 6DN",Night Club,2.1036103054597395
-The Box,51.512538,-0.134119,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.512538, -0.134119]}}","11-12 Walkers Ct (at Brewer St), London, Greater London, W1F 0ED",Night Club,2.1062407149526674
-The Windmill Soho,51.511527,-0.134316,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.511527, -0.134316]}}","London, Greater London, W1D 7LA",Night Club,2.1358999745549974
-The Scotch of St James,51.507789,-0.137371,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.507789, -0.137371]}}","13 Masons Yard, London, Greater London, SW1Y 6BU",Night Club,2.1590817707006633
-Piccadilly Institute,51.510325,-0.133998,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.510325, -0.133998]}}","The London Pavillion, London, Greater London, W1J 0DA",Night Club,2.21243804994698
-Bar Rumba,51.511006,-0.13331,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.511006, -0.13331]}}","36 Shaftesbury Ave, West End, Greater London, W1D 7EP",Night Club,2.2230192514382168
-Thirst,51.514243,-0.131159,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.514243, -0.131159]}}","53 Greek St, London, Greater London, W1D 3DR",Night Club,2.2451090924095536
-G-A-Y Late,51.515087,-0.130463,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.515087, -0.130463]}}","5 Goslett Yard, Soho, Greater London, WC2H 0ER",Night Club,2.271040103006261
-Zebrano,51.514002,-0.130703,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.514002, -0.130703]}}","18 Greek St, Soho, Greater London, W1D 4DS",Night Club,2.2823578481251294
-Tiger Tiger,51.509847,-0.13264,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.509847, -0.13264]}}","29 Haymarket, London, Greater London, SW1Y 4SP",Night Club,2.320268907232397
-SophistiCats Euston,51.528954,-0.132382,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.528954, -0.132382]}}","38 Eversholt St, London, Greater London, NW1 1DA",Night Club,2.3556172950425895
-Ku Bar,51.511822,-0.1297,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.511822, -0.1297]}}","30 Lisle St, London, Greater London, WC2H 7BA",Night Club,2.4207202059957407
-Notting Hill Arts Club,51.509377,-0.19445,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.509377, -0.19445]}}","21 Notting Hill Gate, London, Greater London, W11 3JQ",Night Club,2.4593647583492095
-Zoo Bar & Club,51.510928,-0.129144,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.510928, -0.129144]}}","13-17 Bear St, London, Greater London, WC2H 7AQ",Night Club,2.4919443229820915
-TSQ Club,51.507817,-0.129754,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.507817, -0.129754]}}",,Night Club,2.60245684739621
-Electric Ballroom,51.539719,-0.142878,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.539719, -0.142878]}}","184 Camden High St, London, Greater London, NW1 8QP",Night Club,2.658352995364325
-Heaven,51.508069,-0.124289,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.508069, -0.124289]}}","Villiers St (Villiers St), Charing Cross, Greater London, WC2N 6NG",Night Club,2.9266501728409047
-Sway Bar,51.515651,-0.120595,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.515651, -0.120595]}}","61-65 Great Queen St, London, Greater London, WC2B 5BZ",Night Club,2.9339351782063883
-Crush,51.513989,-0.116752,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.513989, -0.116752]}}","Houghton St, London, WC2A 2AE",Night Club,3.225735381799538
-The Big Chill House,51.530768,-0.120011,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.530768, -0.120011]}}","257-259 Pentonville Rd, London, Greater London, N1 9NL",Night Club,3.21542493739302
-Egg,51.541837,-0.125095,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.541837, -0.125095]}}","200 York Way (at Vale Royal), London, Greater London, N7 9AX",Night Club,3.614976262749837
-Raffles,51.485323,-0.173625,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.485323, -0.173625]}}","287 King's Rd, Chelsea, Greater London, SW3 5EW",Night Club,3.8437919863887293
-The Valmont Club,51.484337,-0.184293,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.484337, -0.184293]}}","266-266A Fulham Rd (Redcliffe Gardens), Kensington, Greater London, SW10 9EL",Night Club,4.157414383916223
-Fabric,51.51962,-0.10252,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.51962, -0.10252]}}","77A Charterhouse St (Cowcross St), London, Greater London, EC1M 6HJ",Night Club,4.15796954853175
-Bankside Vaults,51.507026,-0.104687,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.507026, -0.104687]}}","1 Invicta Plaza, London, SE1 9UF",Night Club,4.230891584462889
-Electrowerkz,51.532262,-0.105177,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.532262, -0.105177]}}","7 Torrens St, London, Greater London, EC1V 1NQ",Night Club,4.230303804841533
-Boston Music Room,51.557153,-0.138446,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.557153, -0.138446]}}","178 Junction Rd, London, Greater London, N19 5QQ",Night Club,4.538629917813022
-Under the Bridge,51.481527,-0.191123,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.481527, -0.191123]}}","Stamford Bridge, Fulham Rd (Fulham Rd.), Fulham, Greater London, SW6 1HS",Night Club,4.631129749116747
-Embargo Night Club,51.480169,-0.185447,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.480169, -0.185447]}}","533b King's Rd, Chelsea, Greater London, SW10 0TZ",Night Club,4.619415355742686
-The Nomad,51.524095,-0.095767,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.524095, -0.095767]}}","58 Old St (Golden Ln), London, Greater London, EC1V 9AJ",Night Club,4.656598053038978
-Fire,51.484565,-0.12365,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.484565, -0.12365]}}","39 Parry St (South Lambeth Rd), London, Greater London, SW8 1RT",Night Club,4.70192277194321
-606 Club,51.478454,-0.181636,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.478454, -0.181636]}}","90 Lots Rd, London, Greater London, SW10 0QD",Night Club,4.718735902116794
-Eagle London,51.486225,-0.119346,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.486225, -0.119346]}}","349 Kennington Lane, London, Greater London, SE11 5QY",Night Club,4.734494390610851
-Popworld Watling Street,51.513057,-0.0947,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.513057, -0.0947]}}","17 Watling St, London, Greater London, EC4M 9BB",Night Club,4.748578980605562
-The Hoist,51.484716,-0.121544,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.484716, -0.121544]}}","32 Vauxhall Grove, London, SW8 1SY",Night Club,4.773516537223102
-Ministry of Sound,51.497637,-0.099503,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.497637, -0.099503]}}","103 Gaunt St, London, Greater London, SE1 6DP",Night Club,4.9826092141492015
-The Steelyard,51.510136,-0.090236,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.510136, -0.090236]}}","Allhallow St, London, Greater London, EC4R 3UL",Night Club,5.1086773530330385
-Belushi's,51.502973,-0.09168,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.502973, -0.09168]}}","161-165 Borough High St, Bridge, Greater London, SE1 1HR",Night Club,5.229929367759966
-Hope Montessori Nursery School,51.518239,-0.172147,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.518239, -0.172147]}}","11a, West End Quay, London, Greater London, W2 1JB",Nursery School,0.6685357043933544
-Marylebone Village Nursery School,51.517797,-0.152538,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.517797, -0.152538]}}","22 George St, London, Greater London, W1U 3QY",Nursery School,0.7142769750292646
-Imperial College Early Years Education Centre,51.500012,-0.173136,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.500012, -0.173136]}}","8 Princes Gardens, London, Greater London",Nursery School,2.254975947993332
-Southbank International School,51.549171,-0.179382,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.549171, -0.179382]}}","16 Netherhall Gardens, London, Greater London, NW3 5TH",Nursery School,3.528323972461935
-London Early Years Foundation,51.493039,-0.128753,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.493039, -0.128753]}}","121 Marsham St, Millbank, Greater London, SW1P 4LX",Nursery School,3.735764343140914
-Swiss Cottage School,51.541995,-0.210322,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.541995, -0.210322]}}","5-7 The Ave, Brent, Greater London, NW6 7YG",Nursery School,4.161132041444572
-Hopes & Dreams,51.531108,-0.102032,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.531108, -0.102032]}}","339-341 City Rd, London, Greater London, EC1V 1LJ",Nursery School,4.3950070740066325
-Hatching Dragons,51.518113,-0.096477,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.518113, -0.096477]}}","Ironmongers Hall Shaftesbury Pl, Barbican, London, Greater London, EC2Y 8AA",Nursery School,4.577518238346445
-Hatching Dragons,51.522868,-0.093033,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.522868, -0.093033]}}","1 Viscount St, London, Greater London, EC1Y 0AA",Nursery School,4.831164365951562
-Pippa Pop-Ins,51.480375,-0.191456,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.480375, -0.191456]}}","430 Fulham Rd, London, SW6 1DU",Nursery School,4.756965133227275
-Packington Square,51.53449,-0.096675,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.53449, -0.096675]}}",,Nursery School,4.867779059862684
-Little Garden Hammersmith Day Nursery,51.499844,-0.226354,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.499844, -0.226354]}}","50 Richfield Gate, London, Greater London, W6 7HZ",Nursery School,4.908694803265076
-Willow Children's Centre,51.557706,-0.122219,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.557706, -0.122219]}}","1A Holbrooke Ct, London, Greater London, N7 0BF",Nursery School,5.112013180165419
-Bayonne Nursery,51.484499,-0.21421,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.484499, -0.21421]}}","Hammersmith, Greater London",Nursery School,5.258201259500468
-Comet Nursery School & Children's Centre,51.535869,-0.08072,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.535869, -0.08072]}}","20 Halcomb St, London, N1 5RF",Nursery School,5.960432335852734
-Lavender Hill Day Nursery,51.465225,-0.164764,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.465225, -0.164764]}}","204 Lavender Hill, London, Greater London, SW11 1JG",Nursery School,6.00407321434865
-Monkey Puzzle Day Nursery,51.55663,-0.098494,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.55663, -0.098494]}}","Loxfords House, Highbury Park, London, Greater London, N5 1GF",Nursery School,6.0813788268348565
-Busy Bees,51.463071,-0.188763,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.463071, -0.188763]}}",,Nursery School,6.499056879502246
-Sunshine Nursery,51.483516,-0.240821,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.483516, -0.240821]}}","7 Stillingfleet Rd, London, SW13 9AQ",Nursery School,6.712314930323357
-Maples Children's Centre,51.50896,-0.261411,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.50896, -0.261411]}}",,Nursery School,6.931170243125848
-Bright Horizons Golders Green Day Nursery and Preschool,51.577102,-0.20569,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.577102, -0.20569]}}","212 Golders Green Rd, London, Greater London, NW11 9AT",Nursery School,7.093711738933437
-Montessori by Busy Bees Green Gables,51.509091,-0.058476,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.509091, -0.058476]}}","4 Wapping Lane, London, Greater London, E1W 2RG",Nursery School,7.2932141583746315
-Wapping Childrens Centre,51.505373,-0.059367,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.505373, -0.059367]}}","Poplar, Greater London",Nursery School,7.308288992809333
-Monkey Puzzle Day Nursery,51.587315,-0.163798,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.587315, -0.163798]}}","Park House, 16 High Rd, London, Greater London, N2 9PJ",Nursery School,7.574031037984983
-Chiswick Nursery,51.492719,-0.264829,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.492719, -0.264829]}}","Marlborough Rd, London, Greater London",Nursery School,7.663203146533623
-Fortis Green Nursery,51.591015,-0.158611,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.591015, -0.158611]}}","70 Fortis Green, London, N2 9EP",Nursery School,7.989793429887745
-Alice Model Nursery School,51.521101,-0.046489,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.521101, -0.046489]}}","14 Beaumont Grove, London, Greater London, E1 4NQ",Nursery School,8.037194306429182
-Morningside Children's centre,51.546109,-0.050568,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.546109, -0.050568]}}",,Nursery School,8.307452543916506
-Noddy's Nursery School,51.445821,-0.213574,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.445821, -0.213574]}}","Trinity Church Hall, Beaumont Rd, London, SW19 6SP",Nursery School,8.890310909731072
-Nuffy Bear Nursery,51.445342,-0.196087,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.445342, -0.196087]}}","King Georges Sport Ground (Burr Road), London, Greater London, SW18 4SQ",Nursery School,8.53400087849768
-Rosemary Works East,51.560096,-0.055566,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.560096, -0.055566]}}","London, Greater London, E5 8BQ",Nursery School,8.688068477924707
-Maria Montessori Nursery School Within Church of the Ascension,51.522126,-0.287437,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.522126, -0.287437]}}","Beaufort Rd, London, W5 3EB",Nursery School,8.642763810479382
-Hendon Preparatory School & Pre-School,51.591125,-0.216984,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.591125, -0.216984]}}","20 Tenterden Grove, London, Greater London, NW4 1TD",Nursery School,8.836716761841334
-Bright Horizons Kew Day Nursery and Preschool,51.474076,-0.276563,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.474076, -0.276563]}}","Townmead Rd, Richmond, Greater London, TW9 4ES",Nursery School,9.349240810831057
-Eastwood Day Nursery & Creche,51.452259,-0.244538,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.452259, -0.244538]}}","166 Roehampton L, Greater London, SW15 4HE",Nursery School,9.359170570278176
-Dulwich Prep London,51.442518,-0.088629,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.442518, -0.088629]}}","8 Gallery Rd, Dulwich, Greater London, SE21 7AB",Nursery School,9.947805739102462
-The Grange children centre,51.503954,-0.305209,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.503954, -0.305209]}}","Greater London, W5 4HN",Nursery School,10.012890309074534
-Bright Horizons North Finchley Day Nursery and Preschool,51.610114,-0.181761,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.610114, -0.181761]}}","10-11 Moss Hall Crescent, London, Greater London, N12 8NY",Nursery School,10.195026142700065
-Toots Day Nursery,51.426181,-0.161537,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.426181, -0.161537]}}","214 Totterdown St (214 Totterdown Street), London, Greater London, SW17 8TD",Nursery School,10.343989315769239
-Smarty Pants Abbey Lane Children S Centre,51.533191,-0.006331,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.533191, -0.006331]}}","1 Abbey Lane, London, Greater London, E15 2SD",Nursery School,10.92281121742993
-Bright Horizons Greenwich Day Nursery and Preschool,51.477414,-0.016641,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.477414, -0.016641]}}","8 Lovibond Lane, London, Greater London, SE10 9FY",Nursery School,11.121746588063234
-Playdays nursery,51.423782,-0.212364,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.423782, -0.212364]}}","Wimbledon hill, Wimbledon, Greater London",Nursery School,11.156078381957995
-Dulwich Wood Nursery School,51.430429,-0.079697,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.430429, -0.079697]}}","Lyall Ave, London, SE21 8QS",Nursery School,11.420151007092528
-Alpha Nursery,51.473208,-0.013989,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.473208, -0.013989]}}","London, Greater London, SE10 8PA",Nursery School,11.489644690235735
-Quaggies Children's Nursery,51.470761,-0.015481,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.470761, -0.015481]}}",,Nursery School,11.522160230353
-Christ Church Primary School,51.437616,-0.051637,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.437616, -0.051637]}}",,Nursery School,11.889839412619393
-Bright Horizons Salcombe Day Nursery and Preschool,51.625146,-0.123866,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.625146, -0.123866]}}","33 The Green, Southgate, Greater London, N14 6EN",Nursery School,12.080690771148918
-Purple Panda Nursery,51.409896,-0.119668,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.409896, -0.119668]}}","53 Norbury Crescent, London, Greater London, SW16 4JS",Nursery School,12.5132780907371
-Church Hill Nursery School,51.584735,-0.014979,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.584735, -0.014979]}}","47 Woodbury Rd, London, Greater London, E17 9SB",Nursery School,12.54146213052389
-Blackheath High School,51.467519,0.0112,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.467519, 0.0112]}}",,Nursery School,13.33501298043281
-Eaton House School,51.494152,-0.154902,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.494152, -0.154902]}}","3 Eaton Gate, London, SW1W 9BA",Elementary School,2.8363069936928302
-St Eugene De Mazenod,51.541083,-0.193919,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.541083, -0.193919]}}","Mazenod Ave, London, Greater London, NW6 4LS",Elementary School,3.2571701329306104
-Salusbury Primary School,51.535881,-0.205692,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.535881, -0.205692]}}","Brent, Greater London",Elementary School,3.510146231627286
-Hampstead Hill School,51.553444,-0.16771,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.553444, -0.16771]}}","St Stephens Hall, Pond St, Hampstead, Greater London, NW3 2PP",Elementary School,3.823601191365142
-St Cuthbert With St Matthias Primary School,51.489307,-0.19373,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.489307, -0.19373]}}","Warwick Rd, London, Greater London, SW5 9UE",Elementary School,3.961206666935047
-Thornhill Primary School,51.540443,-0.109542,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.540443, -0.109542]}}","Thornhill Rd, London, N1 1HX",Elementary School,4.365057715842243
-Hanover Primary School,51.532932,-0.098815,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.532932, -0.098815]}}","Noel Rd, London, N1 8BD",Elementary School,4.669943231206401
-Fulham Prep School,51.486439,-0.209843,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.486439, -0.209843]}}","200 Greyhound Rd, London, W14 9SD",Elementary School,4.895097782798824
-William Tyndale Primary School,51.542009,-0.101351,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.542009, -0.101351]}}","Sable St, London, Greater London, N1 2GG",Elementary School,4.938325478677396
-Charles Dickens Primary School,51.501195,-0.096241,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.501195, -0.096241]}}","Toulmin St, London, Greater London, SE1 1AF",Elementary School,5.010652437415645
-Canonbury Primary School,51.54499,-0.101185,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.54499, -0.101185]}}","Canonbury Rd, London, N1 2UT",Elementary School,5.125844761847111
-St John's Upper Holloway C of E Primary School,51.562623,-0.132884,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.562623, -0.132884]}}","Pemberton Gardens, London, Greater London, N19 5RR",Elementary School,5.2474353302000445
-Lowther Primary School,51.483641,-0.238182,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.483641, -0.238182]}}","Stillingfleet Rd, Richmond, Greater London",Elementary School,6.557480762626396
-Highgate Primary School,51.579063,-0.155154,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.579063, -0.155154]}}","Storey Rd, London, Greater London, N6 4ED",Elementary School,6.675942271450695
-Grasmere Primary School,51.555133,-0.083917,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.555133, -0.083917]}}","92 Albion Rd, London, Greater London, N16 9PD",Elementary School,6.7516221357719575
-Coleridge Primary School,51.57577,-0.126805,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.57577, -0.126805]}}","Crouch End Hill, London, Greater London, N8 8DN",Elementary School,6.759589358914214
-Belleville School,51.457326,-0.163515,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.457326, -0.163515]}}","Belleville St, Wandsworth, Greater London",Elementary School,6.88083654217395
-St Mary's C of E Primary School,51.548256,-0.252176,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.548256, -0.252176]}}","Garnet Rd, London, Greater London, NW10 9JA",Elementary School,6.986850109136493
-St. George's CE Primary School,51.480459,-0.083682,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.480459, -0.083682]}}",,Elementary School,6.957791442976991
-Belmont Primary School,51.493241,-0.262956,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.493241, -0.262956]}}","1 Belmont Rd, London, W4 5UL",Elementary School,7.5211827257585275
-Tetherdown Primary School,51.587863,-0.151907,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.587863, -0.151907]}}","Grand Ave, Fortis Green, Greater London, N10 3BP",Elementary School,7.670302050859629
-Albion Primary School,51.499984,-0.051848,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.499984, -0.051848]}}","Albion St, Rotherhithe, Greater London, SE16 7JD",Elementary School,7.957773502794477
-West Acton Primary School,51.517509,-0.279784,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.517509, -0.279784]}}","Noel Rd, Acton, Greater London, W3 0JL",Elementary School,8.109752534106367
-Holmleigh Primary School,51.570261,-0.074603,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.570261, -0.074603]}}","Dunsmure Rd, London, Greater London, N16 5PU",Elementary School,8.322854685155145
-Richard Atkins Primary School,51.448109,-0.126753,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.448109, -0.126753]}}","New Park Rd, London, Greater London, SW2 4JP",Elementary School,8.28619179157727
-Grove Park Primary School,51.484816,-0.271625,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.484816, -0.271625]}}","Nightingale Close, Chiswick, Greater London, W4 3JN",Elementary School,8.459279000956993
-Alfred Salter Primary School,51.499498,-0.04354,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.499498, -0.04354]}}","Quebec Way, London, Greater London, SE16 7LP",Elementary School,8.526783638701588
-Beatrix Potter School,51.443937,-0.182331,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.443937, -0.182331]}}","London, Greater London",Elementary School,8.480025636876222
-Ravenstone Primary School,51.441298,-0.153199,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.441298, -0.153199]}}",,Elementary School,8.68726802722075
-Telferscot Primary School,51.442856,-0.137256,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.442856, -0.137256]}}","Telferscot Rd, London, SW12 0HW",Elementary School,8.669203228294222
-Redriff Primary School,51.501911,-0.036853,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.501911, -0.036853]}}","Salter Rd, Rotherhithe, Greater London, SE16 5LQ",Elementary School,8.91287623476743
-Tudor School,51.599933,-0.177609,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.599933, -0.177609]}}","London, Greater London, N3 2AG",Elementary School,9.036329015567846
-Kender Primary School,51.475038,-0.05093,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.475038, -0.05093]}}","Kender St, London, Greater London, SE14 5JA",Elementary School,9.159030448570087
-Albemarle Primary School,51.441983,-0.213426,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.441983, -0.213426]}}","Princes Way, London, Greater London, SW19 6JP",Elementary School,9.27972377183028
-Daubeney Primary School,51.552574,-0.03792,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.552574, -0.03792]}}","Daubeney Rd, London, Greater London, E5 0EG",Elementary School,9.388682226241798
-Holy Trinity Primary School & Nursery Unit,51.463461,-0.285633,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.463461, -0.285633]}}","Carrington Rd, Richmond, Greater London, TW10 5AA",Elementary School,10.533967874264253
-Sellincourt Primary School,51.423481,-0.168292,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.423481, -0.168292]}}","Sellincourt Rd, London, Greater London, SW17 9SA",Elementary School,10.651221526979509
-James Wolfe Primary School,51.479502,-0.01235,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.479502, -0.01235]}}","Randall Pl, London, Greater London, SE10 9LA",Elementary School,11.299355323090648
-St Lukes Primary School,51.490257,-0.005337,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.490257, -0.005337]}}",,Elementary School,11.351335613638737
-Oakthorpe Primary School,51.613805,-0.093985,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.613805, -0.093985]}}","Enfield, Greater London",Elementary School,11.53913737593508
-Pelham Primary School,51.416402,-0.197811,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.416402, -0.197811]}}","Southey Rd, London, SW19 1NU",Elementary School,11.688262559761789
-Byron Court Primary School,51.569327,-0.311311,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.569327, -0.311311]}}","Spencer Rd, Wembley, HA0 3SF",Elementary School,11.696405507435832
-Wilbury Primary School,51.611951,-0.082455,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.611951, -0.082455]}}","Wilbury Way, London, N18 1DE",Elementary School,11.706997809300464
-Woodridge Primary School,51.623882,-0.19385,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.623882, -0.19385]}}","Southover, North Finchley, London, N12 7HE",Elementary School,11.83820164969532
-Colegrave Primary School,51.548522,0.001657,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.548522, 0.001657]}}","Henniker Rd (Maryland Road), London, Greater London, E15 1JY",Elementary School,11.820645005318143
-St Ursula's Convent School,51.475634,-0.005834,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.475634, -0.005834]}}","70 Crooms Hill, Greenwich, Greater London, SE10 8HN",Elementary School,11.885045227795727
-Wimbledon Chase Primary School,51.412886,-0.212553,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.412886, -0.212553]}}","Merton Hall Rd, Greater London, SW19 3QB",Elementary School,12.317880847119064
-Krishna Avanti Primary School,51.603418,-0.280276,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.603418, -0.280276]}}","Camrose Ave, Edgware, Greater London, HA8 6ES",Elementary School,12.403553573665102
-Worple Road Primary School,51.465501,-0.324406,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.465501, -0.324406]}}",,Elementary School,12.693777705296498
-Halstow Primary School,51.485093,0.015576,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.485093, 0.015576]}}","Halstow Rd, London, Greater London, SE10 0LD",Elementary School,12.903635106868952
+The Mirror Bar,51.521536,-0.162908,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.521536, -0.162908]}}","222 Marylebone Rd, London, Greater London, NW1 6JQ",Bar,229.0
+Sara Cafe,51.520111,-0.158643,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.520111, -0.158643]}}","13A Crawford St, London, Greater London, W1U 6BZ",Bar,288.0
+Marriott Marble Arch - Executive Lounge,51.516266,-0.163932,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.516266, -0.163932]}}","134 George St, London, Greater London, W1H 5DN",Bar,339.0
+Gino's Coffee Bar,51.522114,-0.162098,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.522114, -0.162098]}}","Great Central St, London, Greater London, NW1 6JH",Bar,346.0
+Sports Bar & Grill,51.522365,-0.163686,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.522365, -0.163686]}}","Marylebone Station, Melcombe Pl, Marylebone, Greater London, NW1 6JJ",Bar,357.0
+Valentino,51.518273,-0.167912,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.518273, -0.167912]}}","179-181 Edgware Rd, London, Greater London, W2 1ET",Bar,381.0
+Al Dar,51.515436,-0.163773,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.515436, -0.163773]}}","61-63 Edgware Rd, London, Greater London, W2 2HZ",Bar,413.0
+Palm Palace,51.515509,-0.163362,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.515509, -0.163362]}}","84 Edgware Rd, London, Greater London, W2 2EA",Bar,429.0
+Shishawi,51.515175,-0.163565,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.515175, -0.163565]}}","51-53 Edgware Rd, City of Westminster, Greater London, W2 2HZ",Bar,431.0
+Sherlock's Bar & Grill,51.521011,-0.156722,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.521011, -0.156722]}}","108 Baker St, London, Greater London, W1U 6LJ",Bar,433.0
+EDG Bar & Lounge,51.519469,-0.170117,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.519469, -0.170117]}}","225 Edgware Rd, London, Greater London, W2 1JU",Bar,479.0
+Globe,51.52197,-0.157056,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.52197, -0.157056]}}","43 Marylebone Rd, Marylebone, Greater London, NW1 5JY",Bar,498.0
+Salt Whisky Bar & Dining Room,51.514209,-0.162228,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.514209, -0.162228]}}","82 Seymour St, Marble Arch, Greater London, W2 2JB",Bar,542.0
+The Metropolitan Bar,51.522668,-0.156824,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.522668, -0.156824]}}","7 Station Approach, Baker St (Marylebone Rd), Marylebone, Greater London, NW1 5LD",Bar,556.0
+Regency Club Lounge,51.515473,-0.157155,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.515473, -0.157155]}}","30 Portman Sq (Hyatt Regency London - The Churchill), London, Greater London, W1H 7BH",Bar,568.0
+BrewDog Paddington,51.519211,-0.171007,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.519211, -0.171007]}}","West End Quay, Paddington, Greater London, W2 1JX",Bar,582.0
+The Churchill Bar,51.515161,-0.156887,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.515161, -0.156887]}}","30 Portman Sq, London, Greater London, W1H 7BH",Bar,609.0
+Fire & Spice Bar & Kitchen,51.514631,-0.15666,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.514631, -0.15666]}}","4 Bryanston St, London, Greater London, W1H 7BY",Bar,673.0
+Micky's Fish Bar,51.516902,-0.172958,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.516902, -0.172958]}}","29 Norfolk Pl, Paddington, Greater London, W2 1QH",Bar,744.0
+Champagne & Oyster Bar by Caviar House & Prunier,51.514488,-0.153907,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.514488, -0.153907]}}","400 Oxford St, London, Greater London, W1A 1AB",Bar,782.0
+The Corner Restaurant & Champagne Bar,51.514331,-0.152629,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.514331, -0.152629]}}","Selfridges, 400 Oxford St, London, Greater London, W1A 1AB",Bar,841.0
+Harry Gordon's Bar,51.514326,-0.152723,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.514326, -0.152723]}}","400 Oxford St (Lower Ground), London, Greater London, W1A 1AB",Bar,880.0
+The Cocktail Bar,51.518018,-0.150114,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.518018, -0.150114]}}","47 Welbeck St, London, Greater London, W1G 8JF",Bar,884.0
+Hershesons Blow Dry Bar,51.514703,-0.152769,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.514703, -0.152769]}}","Selfridges & Co, London, Greater London, W1A 1AB",Bar,901.0
+Harry's Bar,51.515291,-0.15058,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.515291, -0.15058]}}","30 -34 James St (St Christopher's Pl), Marylebone, Greater London, W1U 1ER",Bar,936.0
+The American Bar,51.513065,-0.151932,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.513065, -0.151932]}}","Beaumont Hotel, Mayfair, Greater London, W1K 6TF",Bar,998.0
+Sandro Sandwich Bar,51.515033,-0.175925,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.515033, -0.175925]}}","22 Spring St, London, W2 1JA",Bar,1038.0
+Marriott Grosvenor Square Executive Lounge,51.512577,-0.150801,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.512577, -0.150801]}}","Grosvenor Square (Duke St), London, Greater London, W1K 6JP",Bar,1099.0
+Searcys Champagne Bar,51.516205,-0.176333,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.516205, -0.176333]}}","The Lawn, Paddington Station (The Lawn), London, Greater London, W2 1FT",Bar,1136.0
+Marriott Grosvenor House Executive Lounge,51.509754,-0.155246,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.509754, -0.155246]}}","86-90 Park Lane, London, Greater London, W1K 7TN",Bar,1167.0
+Drunch,51.513994,-0.147063,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.513994, -0.147063]}}","6 Blenheim St (Blenheim St), London, Greater London, W1C 2AA",Bar,1223.0
+Claridges's Bar,51.512602,-0.147909,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.512602, -0.147909]}}","49 Brook St, London, Greater London, W1K 4HR",Bar,1243.0
+Scott's,51.509869,-0.150851,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.509869, -0.150851]}}","20 Mount St, London, Greater London, W1K 2HE",Bar,1314.0
+Sheila's Sandwich Bar,51.512423,-0.178517,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.512423, -0.178517]}}","24a Craven Terrace, Paddington, Greater London, W2 3QH",Bar,1325.0
+Harry's Bar,51.509299,-0.151472,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.509299, -0.151472]}}","26 South Audley St, London, Greater London, W1K 2PD",Bar,1346.0
+Connaught Bar,51.510135,-0.149774,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.510135, -0.149774]}}","16 Carlos Pl, London, Greater London, W1K 2AL",Bar,1357.0
+Connaught Bar,51.510135,-0.149774,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.510135, -0.149774]}}","16 Carlos Pl, London, Greater London, W1K 2AL",Bar,1357.0
+Kibele Restaurant & Bar,51.521726,-0.143647,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.521726, -0.143647]}}","175-177 Great Portland St (175-177 Great Portland), London, Greater London, W1W 5PJ",Bar,1357.0
+The Nest,51.51794,-0.142467,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.51794, -0.142467]}}","14-15 Langham Pl (Treehouse Hotel), London, Greater London, W1B 2QS",Bar,1399.0
+The Espresso Bar,51.528615,-0.149079,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.528615, -0.149079]}}","Regents Park (Inner Circle), London, Greater London, NW1 4NR",Bar,1415.0
+The Aviary Bar,51.516943,-0.141791,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.516943, -0.141791]}}","16 Little Portland St, London, Greater London, W1W 8BW",Bar,1464.0
+Bar Remo,51.514691,-0.142518,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.514691, -0.142518]}}","2 Princes St, London, Greater London, W1B 2LB",Bar,1488.0
+Bellaria Restaurant & Wine Bar,51.519242,-0.141218,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.519242, -0.141218]}}","71 Great Titchfield St, London, Greater London, W1W 6RB",Bar,1501.0
+The Dorchester Rooftop,51.507155,-0.152363,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.507155, -0.152363]}}","53 Park Lane, London, Greater London, W1K 1QA",Bar,1514.0
+Annabel's,51.509188,-0.146869,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.509188, -0.146869]}}","44 Hays Mews, London, Greater London, W1J 5QB",Bar,1549.0
+Aqua Nueva Rooftop Bar,51.514229,-0.141183,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.514229, -0.141183]}}","240 Regent St, Soho, Greater London, W1B 3BR",Bar,1587.0
+The Polo Bar,51.511439,-0.142663,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.511439, -0.142663]}}","37 Conduit St, London, Greater London, W1S 2YF",Bar,1607.0
+sketch - Gallery - Afternoon Tea,51.512779,-0.141757,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.512779, -0.141757]}}","9 Conduit St, London, Greater London, W1S 2XG",Bar,1627.0
+Mr Fogg's Residence,51.509849,-0.144269,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.509849, -0.144269]}}","15 Bruton Lane, Mayfair, Greater London, W1J 6JD",Bar,1654.0
+Shakespeares Head,51.513697,-0.139459,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.513697, -0.139459]}}","29 Great Marlborough St (Fouberts Way), Soho, Greater London, W1F 7HZ",Bar,1715.0
+London Lux Guestlist,51.519402,-0.158568,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.519402, -0.158568]}}","83-87 Crawford St, London, W1H 2HB",Night Club,280.0
+Abacus Bar,51.513201,-0.087121,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.513201, -0.087121]}}","24 Cornhill, London, Greater London, EC3V 3ND",Night Club,707.0
+The Loop Bar,51.514226,-0.145548,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.514226, -0.145548]}}","19 Dering St, London, Greater London, W1S 1AH",Night Club,1311.0
+Tape London,51.514326,-0.144572,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.514326, -0.144572]}}","17 Hanover Square, London, Greater London, W1S 1HU",Night Club,1377.0
+The Social,51.517359,-0.140988,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.517359, -0.140988]}}","5 Little Portland St, London, Greater London, W1W 7JD",Night Club,1522.0
+Maddox Club,51.512702,-0.142262,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.512702, -0.142262]}}","3-5 Mill St, London, Greater London, W1S 2AU",Night Club,1583.0
+Drama,51.505525,-0.15001,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.505525, -0.15001]}}","35 Hertford St, London, Greater London, W1J 7SD",Night Club,1768.0
+Cirque le Soir,51.51291,-0.13893,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.51291, -0.13893]}}","15-21 Ganton St, London, Greater London, W1F 9BN",Night Club,1769.0
+Maya London,51.515953,-0.133966,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.515953, -0.133966]}}","1a Dean St, London, Greater London, W1D 3RB",Night Club,1994.0
+The Cuckoo Club,51.509962,-0.137771,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.509962, -0.137771]}}","99-101 Regent St (Swallow St), London, Greater London, W1B 4EZ",Night Club,2001.0
+The Roxy,51.516596,-0.132935,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.516596, -0.132935]}}","3-5 Rathbone Pl, London, Greater London, W1T 1HJ",Night Club,2057.0
+The Office,51.516749,-0.133116,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.516749, -0.133116]}}","3-5 Rathbone Pl, London, W1T 1HJ",Night Club,2057.0
+Tramp,51.508255,-0.13782,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.508255, -0.13782]}}","40 Jermyn St, London, Greater London, SW1Y 6DN",Night Club,2096.0
+The Box,51.512538,-0.134119,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.512538, -0.134119]}}","11-12 Walkers Ct (at Brewer St), London, Greater London, W1F 0ED",Night Club,2120.0
+The Windmill Soho,51.511527,-0.134316,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.511527, -0.134316]}}","London, Greater London, W1D 7LA",Night Club,2134.0
+The Scotch of St James,51.507789,-0.137371,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.507789, -0.137371]}}","13 Masons Yard, London, Greater London, SW1Y 6BU",Night Club,2172.0
+Piccadilly Institute,51.510325,-0.133998,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.510325, -0.133998]}}","The London Pavillion, London, Greater London, W1J 0DA",Night Club,2195.0
+Bar Rumba,51.511006,-0.13331,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.511006, -0.13331]}}","36 Shaftesbury Ave, West End, Greater London, W1D 7EP",Night Club,2205.0
+Thirst,51.514243,-0.131159,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.514243, -0.131159]}}","53 Greek St, London, Greater London, W1D 3DR",Night Club,2248.0
+G-A-Y Late,51.515087,-0.130463,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.515087, -0.130463]}}","5 Goslett Yard, Soho, Greater London, WC2H 0ER",Night Club,2268.0
+Zebrano,51.514002,-0.130703,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.514002, -0.130703]}}","18 Greek St, Soho, Greater London, W1D 4DS",Night Club,2277.0
+Tiger Tiger,51.509847,-0.13264,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.509847, -0.13264]}}","29 Haymarket, London, Greater London, SW1Y 4SP",Night Club,2319.0
+SophistiCats Euston,51.528954,-0.132382,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.528954, -0.132382]}}","38 Eversholt St, London, Greater London, NW1 1DA",Night Club,2364.0
+Ku Bar,51.511822,-0.1297,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.511822, -0.1297]}}","30 Lisle St, London, Greater London, WC2H 7BA",Night Club,2431.0
+Notting Hill Arts Club,51.509377,-0.19445,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.509377, -0.19445]}}","21 Notting Hill Gate, London, Greater London, W11 3JQ",Night Club,2457.0
+Zoo Bar & Club,51.510928,-0.129144,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.510928, -0.129144]}}","13-17 Bear St, London, Greater London, WC2H 7AQ",Night Club,2498.0
+TSQ Club,51.507817,-0.129754,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.507817, -0.129754]}}",,Night Club,2603.0
+Electric Ballroom,51.539719,-0.142878,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.539719, -0.142878]}}","184 Camden High St, London, Greater London, NW1 8QP",Night Club,2636.0
+Heaven,51.508069,-0.124289,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.508069, -0.124289]}}","Villiers St (Villiers St), Charing Cross, Greater London, WC2N 6NG",Night Club,2938.0
+Sway Bar,51.515651,-0.120595,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.515651, -0.120595]}}","61-65 Great Queen St, London, Greater London, WC2B 5BZ",Night Club,2943.0
+Crush,51.513989,-0.116752,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.513989, -0.116752]}}","Houghton St, London, WC2A 2AE",Night Club,3223.0
+The Big Chill House,51.530768,-0.120011,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.530768, -0.120011]}}","257-259 Pentonville Rd, London, Greater London, N1 9NL",Night Club,3227.0
+Egg,51.541837,-0.125095,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.541837, -0.125095]}}","200 York Way (at Vale Royal), London, Greater London, N7 9AX",Night Club,3594.0
+Raffles,51.485323,-0.173625,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.485323, -0.173625]}}","287 King's Rd, Chelsea, Greater London, SW3 5EW",Night Club,3831.0
+The Valmont Club,51.484337,-0.184293,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.484337, -0.184293]}}","266-266A Fulham Rd (Redcliffe Gardens), Kensington, Greater London, SW10 9EL",Night Club,4168.0
+Fabric,51.51962,-0.10252,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.51962, -0.10252]}}","77A Charterhouse St (Cowcross St), London, Greater London, EC1M 6HJ",Night Club,4176.0
+Bankside Vaults,51.507026,-0.104687,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.507026, -0.104687]}}","1 Invicta Plaza, London, SE1 9UF",Night Club,4228.0
+Electrowerkz,51.532262,-0.105177,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.532262, -0.105177]}}","7 Torrens St, London, Greater London, EC1V 1NQ",Night Club,4241.0
+Boston Music Room,51.557153,-0.138446,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.557153, -0.138446]}}","178 Junction Rd, London, Greater London, N19 5QQ",Night Club,4547.0
+Under the Bridge,51.481527,-0.191123,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.481527, -0.191123]}}","Stamford Bridge, Fulham Rd (Fulham Rd.), Fulham, Greater London, SW6 1HS",Night Club,4570.0
+Embargo Night Club,51.480169,-0.185447,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.480169, -0.185447]}}","533b King's Rd, Chelsea, Greater London, SW10 0TZ",Night Club,4613.0
+The Nomad,51.524095,-0.095767,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.524095, -0.095767]}}","58 Old St (Golden Ln), London, Greater London, EC1V 9AJ",Night Club,4668.0
+Fire,51.484565,-0.12365,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.484565, -0.12365]}}","39 Parry St (South Lambeth Rd), London, Greater London, SW8 1RT",Night Club,4673.0
+606 Club,51.478454,-0.181636,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.478454, -0.181636]}}","90 Lots Rd, London, Greater London, SW10 0QD",Night Club,4724.0
+Eagle London,51.486225,-0.119346,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.486225, -0.119346]}}","349 Kennington Lane, London, Greater London, SE11 5QY",Night Club,4731.0
+Popworld Watling Street,51.513057,-0.0947,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.513057, -0.0947]}}","17 Watling St, London, Greater London, EC4M 9BB",Night Club,4755.0
+The Hoist,51.484716,-0.121544,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.484716, -0.121544]}}","32 Vauxhall Grove, London, SW8 1SY",Night Club,4770.0
+Ministry of Sound,51.497637,-0.099503,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.497637, -0.099503]}}","103 Gaunt St, London, Greater London, SE1 6DP",Night Club,4981.0
+The Steelyard,51.510136,-0.090236,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.510136, -0.090236]}}","Allhallow St, London, Greater London, EC4R 3UL",Night Club,5105.0
+Belushi's,51.502973,-0.09168,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.502973, -0.09168]}}","161-165 Borough High St, Bridge, Greater London, SE1 1HR",Night Club,5219.0
+Hope Montessori Nursery School,51.518239,-0.172147,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.518239, -0.172147]}}","11a, West End Quay, London, Greater London, W2 1JB",Nursery School,655.0
+Marylebone Village Nursery School,51.517797,-0.152538,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.517797, -0.152538]}}","22 George St, London, Greater London, W1U 3QY",Nursery School,719.0
+Imperial College Early Years Education Centre,51.500012,-0.173136,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.500012, -0.173136]}}","8 Princes Gardens, London, Greater London",Nursery School,2265.0
+Southbank International School,51.549171,-0.179382,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.549171, -0.179382]}}","16 Netherhall Gardens, London, Greater London, NW3 5TH",Nursery School,3524.0
+London Early Years Foundation,51.493039,-0.128753,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.493039, -0.128753]}}","121 Marsham St, Millbank, Greater London, SW1P 4LX",Nursery School,3721.0
+Swiss Cottage School,51.541995,-0.210322,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.541995, -0.210322]}}","5-7 The Ave, Brent, Greater London, NW6 7YG",Nursery School,4159.0
+Hopes & Dreams,51.531108,-0.102032,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.531108, -0.102032]}}","339-341 City Rd, London, Greater London, EC1V 1LJ",Nursery School,4387.0
+Hatching Dragons,51.518113,-0.096477,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.518113, -0.096477]}}","Ironmongers Hall Shaftesbury Pl, Barbican, London, Greater London, EC2Y 8AA",Nursery School,4570.0
+Hatching Dragons,51.522868,-0.093033,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.522868, -0.093033]}}","1 Viscount St, London, Greater London, EC1Y 0AA",Nursery School,4657.0
+Pippa Pop-Ins,51.480375,-0.191456,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.480375, -0.191456]}}","430 Fulham Rd, London, SW6 1DU",Nursery School,4763.0
+Packington Square,51.53449,-0.096675,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.53449, -0.096675]}}",,Nursery School,4865.0
+Little Garden Hammersmith Day Nursery,51.499844,-0.226354,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.499844, -0.226354]}}","50 Richfield Gate, London, Greater London, W6 7HZ",Nursery School,4913.0
+Willow Children's Centre,51.557706,-0.122219,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.557706, -0.122219]}}","1A Holbrooke Ct, London, Greater London, N7 0BF",Nursery School,5108.0
+Bayonne Nursery,51.484499,-0.21421,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.484499, -0.21421]}}","Hammersmith, Greater London",Nursery School,5254.0
+Comet Nursery School & Children's Centre,51.535869,-0.08072,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.535869, -0.08072]}}","20 Halcomb St, London, N1 5RF",Nursery School,5930.0
+Lavender Hill Day Nursery,51.465225,-0.164764,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.465225, -0.164764]}}","204 Lavender Hill, London, Greater London, SW11 1JG",Nursery School,6016.0
+Monkey Puzzle Day Nursery,51.55663,-0.098494,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.55663, -0.098494]}}","Loxfords House, Highbury Park, London, Greater London, N5 1GF",Nursery School,6053.0
+Busy Bees,51.463071,-0.188763,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.463071, -0.188763]}}",,Nursery School,6529.0
+Sunshine Nursery,51.483516,-0.240821,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.483516, -0.240821]}}","7 Stillingfleet Rd, London, SW13 9AQ",Nursery School,6695.0
+Maples Children's Centre,51.50896,-0.261411,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.50896, -0.261411]}}",,Nursery School,6933.0
+Bright Horizons Golders Green Day Nursery and Preschool,51.577102,-0.20569,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.577102, -0.20569]}}","212 Golders Green Rd, London, Greater London, NW11 9AT",Nursery School,7098.0
+Montessori by Busy Bees Green Gables,51.509091,-0.058476,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.509091, -0.058476]}}","4 Wapping Lane, London, Greater London, E1W 2RG",Nursery School,7296.0
+Wapping Childrens Centre,51.505373,-0.059367,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.505373, -0.059367]}}","Poplar, Greater London",Nursery School,7315.0
+Monkey Puzzle Day Nursery,51.587315,-0.163798,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.587315, -0.163798]}}","Park House, 16 High Rd, London, Greater London, N2 9PJ",Nursery School,7586.0
+Chiswick Nursery,51.492719,-0.264829,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.492719, -0.264829]}}","Marlborough Rd, London, Greater London",Nursery School,7646.0
+Fortis Green Nursery,51.591015,-0.158611,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.591015, -0.158611]}}","70 Fortis Green, London, N2 9EP",Nursery School,7964.0
+Alice Model Nursery School,51.521101,-0.046489,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.521101, -0.046489]}}","14 Beaumont Grove, London, Greater London, E1 4NQ",Nursery School,8027.0
+Morningside Children's centre,51.546109,-0.050568,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.546109, -0.050568]}}",,Nursery School,8297.0
+Noddy's Nursery School,51.445821,-0.213574,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.445821, -0.213574]}}","Trinity Church Hall, Beaumont Rd, London, SW19 6SP",Nursery School,8497.0
+Nuffy Bear Nursery,51.445342,-0.196087,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.445342, -0.196087]}}","King Georges Sport Ground (Burr Road), London, Greater London, SW18 4SQ",Nursery School,8528.0
+Rosemary Works East,51.560096,-0.055566,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.560096, -0.055566]}}","London, Greater London, E5 8BQ",Nursery School,8682.0
+Maria Montessori Nursery School Within Church of the Ascension,51.522126,-0.287437,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.522126, -0.287437]}}","Beaufort Rd, London, W5 3EB",Nursery School,8805.0
+Hendon Preparatory School & Pre-School,51.591125,-0.216984,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.591125, -0.216984]}}","20 Tenterden Grove, London, Greater London, NW4 1TD",Nursery School,8829.0
+Bright Horizons Kew Day Nursery and Preschool,51.474076,-0.276563,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.474076, -0.276563]}}","Townmead Rd, Richmond, Greater London, TW9 4ES",Nursery School,9339.0
+Eastwood Day Nursery & Creche,51.452259,-0.244538,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.452259, -0.244538]}}","166 Roehampton L, Greater London, SW15 4HE",Nursery School,9350.0
+Dulwich Prep London,51.442518,-0.088629,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.442518, -0.088629]}}","8 Gallery Rd, Dulwich, Greater London, SE21 7AB",Nursery School,9942.0
+The Grange children centre,51.503954,-0.305209,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.503954, -0.305209]}}","Greater London, W5 4HN",Nursery School,9999.0
+Bright Horizons North Finchley Day Nursery and Preschool,51.610114,-0.181761,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.610114, -0.181761]}}","10-11 Moss Hall Crescent, London, Greater London, N12 8NY",Nursery School,10204.0
+Toots Day Nursery,51.426181,-0.161537,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.426181, -0.161537]}}","214 Totterdown St (214 Totterdown Street), London, Greater London, SW17 8TD",Nursery School,10339.0
+Smarty Pants Abbey Lane Children S Centre,51.533191,-0.006331,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.533191, -0.006331]}}","1 Abbey Lane, London, Greater London, E15 2SD",Nursery School,10904.0
+Bright Horizons Greenwich Day Nursery and Preschool,51.477414,-0.016641,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.477414, -0.016641]}}","8 Lovibond Lane, London, Greater London, SE10 9FY",Nursery School,11121.0
+Playdays nursery,51.423782,-0.212364,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.423782, -0.212364]}}","Wimbledon hill, Wimbledon, Greater London",Nursery School,11135.0
+Dulwich Wood Nursery School,51.430429,-0.079697,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.430429, -0.079697]}}","Lyall Ave, London, SE21 8QS",Nursery School,11342.0
+Alpha Nursery,51.473208,-0.013989,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.473208, -0.013989]}}","London, Greater London, SE10 8PA",Nursery School,11483.0
+Quaggies Children's Nursery,51.470761,-0.015481,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.470761, -0.015481]}}",,Nursery School,11522.0
+Christ Church Primary School,51.437616,-0.051637,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.437616, -0.051637]}}",,Nursery School,11882.0
+Bright Horizons Salcombe Day Nursery and Preschool,51.625146,-0.123866,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.625146, -0.123866]}}","33 The Green, Southgate, Greater London, N14 6EN",Nursery School,12081.0
+Purple Panda Nursery,51.409896,-0.119668,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.409896, -0.119668]}}","53 Norbury Crescent, London, Greater London, SW16 4JS",Nursery School,12503.0
+Church Hill Nursery School,51.584735,-0.014979,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.584735, -0.014979]}}","47 Woodbury Rd, London, Greater London, E17 9SB",Nursery School,12536.0
+Blackheath High School,51.467519,0.0112,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.467519, 0.0112]}}",,Nursery School,13326.0
+Hallfield Junior School,51.514888,-0.185998,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.514888, -0.185998]}}","Hallfield Estate, City of Westminster, Greater London, W2 6JJ",Elementary School,1658.0
+St Peter's Eaton Square CE Primary,51.496053,-0.146606,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.496053, -0.146606]}}",,Elementary School,2812.0
+Eaton House School,51.494152,-0.154902,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.494152, -0.154902]}}","3 Eaton Gate, London, SW1W 9BA",Elementary School,2846.0
+Eaton Square School,51.49276,-0.142929,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.49276, -0.142929]}}","79 Eccleston Square, City of Westminster, Greater London, SW1V 1PP",Elementary School,3236.0
+St Eugene De Mazenod,51.541083,-0.193919,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.541083, -0.193919]}}","Mazenod Ave, London, Greater London, NW6 4LS",Elementary School,3260.0
+Salusbury Primary School,51.535881,-0.205692,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.535881, -0.205692]}}","Brent, Greater London",Elementary School,3503.0
+Hampstead Hill School,51.553444,-0.16771,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.553444, -0.16771]}}","St Stephens Hall, Pond St, Hampstead, Greater London, NW3 2PP",Elementary School,3827.0
+St Cuthbert With St Matthias Primary School,51.489307,-0.19373,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.489307, -0.19373]}}","Warwick Rd, London, Greater London, SW5 9UE",Elementary School,3959.0
+Christ Church Primary School,51.559593,-0.176257,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.559593, -0.176257]}}","Christchurch Hill, London, Greater London, NW3 1JH",Elementary School,4507.0
+Larmenier & Sacred Heart Catholic Primary School,51.494459,-0.217711,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.494459, -0.217711]}}","41a Brook Green, London, W6 7BL",Elementary School,4676.0
+Fulham Prep School,51.486439,-0.209843,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.486439, -0.209843]}}","200 Greyhound Rd, London, W14 9SD",Elementary School,4881.0
+William Tyndale Primary School,51.542009,-0.101351,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.542009, -0.101351]}}","Sable St, London, Greater London, N1 2GG",Elementary School,4910.0
+Charles Dickens Primary School,51.501195,-0.096241,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.501195, -0.096241]}}","Toulmin St, London, Greater London, SE1 1AF",Elementary School,4997.0
+Canonbury Primary School,51.54499,-0.101185,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.54499, -0.101185]}}","Canonbury Rd, London, N1 2UT",Elementary School,5147.0
+St John's Upper Holloway C of E Primary School,51.562623,-0.132884,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.562623, -0.132884]}}","Pemberton Gardens, London, Greater London, N19 5RR",Elementary School,5245.0
+Lowther Primary School,51.483641,-0.238182,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.483641, -0.238182]}}","Stillingfleet Rd, Richmond, Greater London",Elementary School,6541.0
+Highgate Primary School,51.579063,-0.155154,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.579063, -0.155154]}}","Storey Rd, London, Greater London, N6 4ED",Elementary School,6669.0
+Grasmere Primary School,51.555133,-0.083917,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.555133, -0.083917]}}","92 Albion Rd, London, Greater London, N16 9PD",Elementary School,6741.0
+Coleridge Primary School,51.57577,-0.126805,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.57577, -0.126805]}}","Crouch End Hill, London, Greater London, N8 8DN",Elementary School,6741.0
+Belleville School,51.457326,-0.163515,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.457326, -0.163515]}}","Belleville St, Wandsworth, Greater London",Elementary School,6863.0
+St Mary's C of E Primary School,51.548256,-0.252176,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.548256, -0.252176]}}","Garnet Rd, London, Greater London, NW10 9JA",Elementary School,6939.0
+Belmont Primary School,51.493241,-0.262956,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.493241, -0.262956]}}","1 Belmont Rd, London, W4 5UL",Elementary School,7548.0
+Tetherdown Primary School,51.587863,-0.151907,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.587863, -0.151907]}}","Grand Ave, Fortis Green, Greater London, N10 3BP",Elementary School,7691.0
+West Acton Primary School,51.517509,-0.279784,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.517509, -0.279784]}}","Noel Rd, Acton, Greater London, W3 0JL",Elementary School,8010.0
+Grove Park Primary School,51.484816,-0.271625,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.484816, -0.271625]}}","Nightingale Close, Chiswick, Greater London, W4 3JN",Elementary School,8446.0
+Beatrix Potter School,51.443937,-0.182331,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.443937, -0.182331]}}","London, Greater London",Elementary School,8465.0
+Ravenstone Primary School,51.441298,-0.153199,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.441298, -0.153199]}}",,Elementary School,8668.0
+Telferscot Primary School,51.442856,-0.137256,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.442856, -0.137256]}}","Telferscot Rd, London, SW12 0HW",Elementary School,8671.0
+Redriff Primary School,51.501911,-0.036853,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.501911, -0.036853]}}","Salter Rd, Rotherhithe, Greater London, SE16 5LQ",Elementary School,8912.0
+Tudor School,51.599933,-0.177609,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.599933, -0.177609]}}","London, Greater London, N3 2AG",Elementary School,9030.0
+Alexandra Primary School,51.595224,-0.115135,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.595224, -0.115135]}}","Western Rd, London, N22 6UH",Elementary School,9070.0
+Kender Primary School,51.475038,-0.05093,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.475038, -0.05093]}}","Kender St, London, Greater London, SE14 5JA",Elementary School,9128.0
+Fircroft School,51.436379,-0.16191,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.436379, -0.16191]}}",,Elementary School,9204.0
+Albemarle Primary School,51.441983,-0.213426,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.441983, -0.213426]}}","Princes Way, London, Greater London, SW19 6JP",Elementary School,9261.0
+Daubeney Primary School,51.552574,-0.03792,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.552574, -0.03792]}}","Daubeney Rd, London, Greater London, E5 0EG",Elementary School,9368.0
+Tooting Primary School,51.426625,-0.162456,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.426625, -0.162456]}}",,Elementary School,10298.0
+Buxlow Preparatory School,51.561397,-0.295933,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.561397, -0.295933]}}","5-6 Castleton Gardens, Wembley, HA9 7QJ",Elementary School,10356.0
+Holy Trinity Primary School & Nursery Unit,51.463461,-0.285633,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.463461, -0.285633]}}","Carrington Rd, Richmond, Greater London, TW10 5AA",Elementary School,10503.0
+Sellincourt Primary School,51.423481,-0.168292,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.423481, -0.168292]}}","Sellincourt Rd, London, Greater London, SW17 9SA",Elementary School,10643.0
+North Ealing Primary School,51.526096,-0.317756,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.526096, -0.317756]}}","Pitshanger Lane, London, Greater London, W5 1RP",Elementary School,10734.0
+Canary Wharf College,51.489184,-0.013494,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.489184, -0.013494]}}","197 East Ferry Rd, London, E14 3BA",Elementary School,10834.0
+Devonshire Hill Primary School,51.606205,-0.081651,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.606205, -0.081651]}}","Weir Hall Rd, London, N17 8LB",Elementary School,11266.0
+James Wolfe Primary School,51.479502,-0.01235,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.479502, -0.01235]}}","Randall Pl, London, Greater London, SE10 9LA",Elementary School,11273.0
+St Lukes Primary School,51.490257,-0.005337,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.490257, -0.005337]}}",,Elementary School,11425.0
+Oakthorpe Primary School,51.613805,-0.093985,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.613805, -0.093985]}}","Enfield, Greater London",Elementary School,11541.0
+Pelham Primary School,51.416402,-0.197811,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.416402, -0.197811]}}","Southey Rd, London, SW19 1NU",Elementary School,11659.0
+Wilbury Primary School,51.611951,-0.082455,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.611951, -0.082455]}}","Wilbury Way, London, N18 1DE",Elementary School,11715.0
+Woodridge Primary School,51.623882,-0.19385,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.623882, -0.19385]}}","Southover, North Finchley, London, N12 7HE",Elementary School,11813.0
+Colegrave Primary School,51.548522,0.001657,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.548522, 0.001657]}}","Henniker Rd (Maryland Road), London, Greater London, E15 1JY",Elementary School,11855.0
+Etz Chaim Jewish Primary School,51.615286,-0.240482,London,"{'typepoint': {'type': 'Point', 'coordinates': [51.615286, -0.240482]}}","20 Daws Lane, London, NW7 4SL",Elementary School,11969.0
 TEC Field,37.023019,-84.12225,London,"{'typepoint': {'type': 'Point', 'coordinates': [37.023019, -84.12225]}}",,Airport,6496.379542684781
 London / Chapeskie Field,43.0682983398,-81.1256027222,London,"{'typepoint': {'type': 'Point', 'coordinates': [43.0682983398, -81.1256027222]}}",,Airport,5860.177409700864
 London (Pioneer Airpark),43.0975,-81.234301,London,"{'typepoint': {'type': 'Point', 'coordinates': [43.0975, -81.234301]}}",,Airport,5864.933732328821

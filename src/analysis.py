@@ -41,10 +41,10 @@ def concat_dfs(list_, city):
 def city_weights(df):
     
     city = df["city"].iloc[0] 
-    weights = {"bars" : round((df.loc[df["type_of_place"] == "Bar"]["distance_from_company"].mean())*0.6, 2),
-                "nightclubs" : round((df.loc[df["type_of_place"] == "Night Club"]["distance_from_company"].mean())*0.6, 2),
-                "elementary_schools": round(df.loc[df["type_of_place"] == "Elementary School"]["distance_from_company"].min()*0.9, 2),
-                "nurseries": round(df.loc[df["type_of_place"] == "Nursery School"]["distance_from_company"].min()*0.8, 1),
+    weights = {"bars" : round((df.loc[df["type_of_place"] == "Bar"]["distance_from_company"].head(10).mean())*0.6, 2),
+                "nightclubs" : round((df.loc[df["type_of_place"] == "Night Club"]["distance_from_company"].head(10).mean())*0.6, 2),
+                "elementary_schools": round(df.loc[df["type_of_place"] == "Elementary School"]["distance_from_company"].head(2).mean()*0.9, 2),
+                "nurseries": round(df.loc[df["type_of_place"] == "Nursery School"]["distance_from_company"].head(2).mean()*0.8, 1),
                 "airports": round(df.loc[df["type_of_place"] == "Airport"]["distance_from_company"].min(), 1),
                 'city' : city
 }

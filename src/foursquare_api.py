@@ -42,7 +42,7 @@ def get_results_from_foursquare (query, location, limit):
 
 #----------------------------------------------------------------------------------------------------------------------------
 
-def making_requests(query):
+def making_requests(query, df3_topcompanies):
     
     location = []
     dict_of_dfs = dict()

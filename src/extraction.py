@@ -20,7 +20,9 @@ import statistics as s
 
 import haversine as hs
 load_dotenv()
+
 #------------------------------------------------------------------------------------------------------------------------
+
 #connecting to Mongo database
 
 client = MongoClient("localhost:27017")
@@ -50,6 +52,7 @@ def filtering_companies():
     df = pd.DataFrame(filtered_companies)
     
     return df
+
 #------------------------------------------------------------------------------------------------------------------------
 
 
@@ -98,9 +101,9 @@ def cleaning_companies_df(df):
     
     return df
 
-    #------------------------------------------------------------------------------------------------------------------------
+#------------------------------------------------------------------------------------------------------------------------
 
-def creating(airports, city):
+def creating_airports_df(airports, city):
     
     type_ = []
 
@@ -131,3 +134,8 @@ def distances_airports(coord_company, df):
         distance_from_company.append(hs.haversine((df["lat"].iloc[i], df["lon"].iloc[i]), (coord_company)))
 
     df["distance_from_company"] = pd.Series(distance_from_company)
+    
+    
+#------------------------------------------------------------------------------------------------------------------------
+
+    

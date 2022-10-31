@@ -1,3 +1,10 @@
+import folium
+from folium import Choropleth, Circle, Marker, Icon, Map
+from folium.plugins import HeatMap, MarkerCluster
+import pandas as pd
+import geopandas as gpd
+
+
 #----------------------------------------------------------------------------------------------------------------------------
 
 
@@ -6,6 +13,8 @@ def empty_maps(df3_topcompanies):
     map_london = Map(location=[df3_topcompanies["latitude"].iloc[0], df3_topcompanies["longitude"].iloc[0]], zoom_start=15)
     map_newyork = Map(location=[df3_topcompanies["latitude"].iloc[1], df3_topcompanies["longitude"].iloc[1]], zoom_start=15)
     map_sanfrancisco = Map(location=[df3_topcompanies["latitude"].iloc[2], df3_topcompanies["longitude"].iloc[2]], zoom_start=15)
+    
+    return map_london, map_newyork, map_sanfrancisco
     
 #----------------------------------------------------------------------------------------------------------------------------
 

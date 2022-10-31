@@ -1,5 +1,4 @@
 from pymongo import MongoClient
-import pandas as pd
 import numpy as np
 import time
 
@@ -7,7 +6,6 @@ import os
 import requests
 import json
 from dotenv import load_dotenv
-import pandas as pd
 
 import geopandas as gpd
 from cartoframes.viz import Map, Layer, popup_element

@@ -61,8 +61,7 @@ You have to find a place that more or less covers all the following requirements
 
 #### Tools used
    &nbsp; 
-
-
+   
 1. Access to a Mongo database with information from over 18,000 startups across the globe. The information varied from addresses to market value and other details. Although the data is considerably outdated (about 10 years old), it was helpful as a starting point for the project.
    &nbsp; 
 

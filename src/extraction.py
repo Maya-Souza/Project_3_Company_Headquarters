@@ -34,7 +34,8 @@ c = db.get_collection("companies")
 def filtering_companies():
     
     '''
-    Filtering companies based on the criteria explained in the README
+    Filtering companies based on the criteria explained in the README.
+    
 
     '''
 
@@ -105,6 +106,12 @@ def cleaning_companies_df(df):
 
 def creating_airports_df(airports, city):
     
+    '''
+    Filtering the information from the airports database. The function receives the city I want and returns all the airports in it.
+    The database isn't very precise though, unfortunately.
+    
+    '''
+    
     type_ = []
 
     new = airports.loc[(airports["municipality"] == city) & (~airports["type"].isin(["closed", "seaplane_base", "heliport"]))]
@@ -126,6 +133,13 @@ def creating_airports_df(airports, city):
 #------------------------------------------------------------------------------------------------------------------------
 
 def distances_airports(coord_company, df):
+    
+    '''
+    Function that uses the haversine library to calculate the distance between two points using the latitude and longitude.
+    It was used because I didn't have distances from the airports to the buildings since the information was not gathered through the
+    Foursquare API.
+    
+    '''
     
     distance_from_company = []
     

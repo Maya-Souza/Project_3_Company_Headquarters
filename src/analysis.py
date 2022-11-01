@@ -25,6 +25,12 @@ token_fsq = os.getenv("key")
 
 def concat_dfs(list_, city):
     
+    '''
+    Function that receives a list of dictionaries where each dictionary has 3 dataframes as values.
+    The dictionaries are divided by place (e.g: bars, schools, etc) and not by city. This function creates 3 dataframes, one for each city, 
+    by separating the ones inside the dictionaries and concatenating them in the right place.
+    '''
+    
     df1 = pd.DataFrame()
     
     for dic in list_:
@@ -40,6 +46,12 @@ def concat_dfs(list_, city):
 
 def city_weights(df):
     
+    '''
+    Function that assigns weight to each type of place according to the description in the README. For bars and nightclubs it takes 
+    into consideration the average of the 10 closest ones (since only one bar is not representative of "variety"). 
+    For schools, 2 were taken, and for airports, only the closest one.
+    '''
+    
     city = df["city"].iloc[0] 
     weights = {"bars" : round((df.loc[df["type_of_place"] == "Bar"]["distance_from_company"].head(10).mean())*0.6, 2),
                 "nightclubs" : round((df.loc[df["type_of_place"] == "Night Club"]["distance_from_company"].head(10).mean())*0.6, 2),
@@ -53,6 +65,10 @@ def city_weights(df):
 #----------------------------------------------------------------------------------------------------------------------------
 
 def city_score(city_weight1, city_weight2, city_weight3):
+    
+    '''
+    Function that compares the weights given to each place and decides which city has the most variety of places closest to the building.
+    '''
     
     keys_from_cityweight = list(city_weight1.keys())
     score = []
